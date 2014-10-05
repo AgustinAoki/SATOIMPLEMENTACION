@@ -1271,6 +1271,7 @@ C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\bin\Debug\Datos.pdb
 C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.exe
 C:\Users\Pc\Desktop\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.pdb
 <<<<<<< HEAD
+<<<<<<< HEAD
 D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
 D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\SATO\obj\x86\Debug\Interop.WisSensorNLibLib.dll
 D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
@@ -1311,6 +1312,8 @@ D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\SATO\bin\De
 D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.exe
 D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.pdb
 =======
+=======
+>>>>>>> origin/master
 D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\SATO\bin\Debug\SATO.exe.config
 D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.csproj.ResolveComReference.cache
 D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\SATO\obj\x86\Debug\SATO.exe
@@ -1349,4 +1352,7 @@ D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\SATO\obj\x86\Debug\
 D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmUsuario.resources
 D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.frmMensaje.resources
 D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\SATO\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
