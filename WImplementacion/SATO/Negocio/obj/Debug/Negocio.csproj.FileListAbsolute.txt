@@ -346,13 +346,43 @@ C:\Users\Pc\Desktop\WImplementacion\SATO\Negocio\obj\Debug\Negocio.csprojResolve
 C:\Users\Pc\Desktop\WImplementacion\SATO\Negocio\obj\Debug\Negocio.csproj.ResolveComReference.cache
 C:\Users\Pc\Desktop\WImplementacion\SATO\Negocio\obj\Debug\Negocio.dll
 C:\Users\Pc\Desktop\WImplementacion\SATO\Negocio\obj\Debug\Negocio.pdb
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\obj\Debug\Interop.WisSensorNLibLib.dll
+D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\obj\Debug\Negocio.csproj.ResolveComReference.cache
+>>>>>>> origin/master
 D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\bin\Debug\Negocio.dll
 D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\bin\Debug\Negocio.pdb
 D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\bin\Debug\Datos.dll
 D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\bin\Debug\Entidades.dll
 D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\bin\Debug\Datos.pdb
 D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\bin\Debug\Entidades.pdb
+<<<<<<< HEAD
 D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
 D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\obj\Debug\Negocio.csproj.ResolveComReference.cache
 D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\obj\Debug\Negocio.dll
 D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\obj\Debug\Negocio.pdb
+=======
+D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\obj\Debug\Negocio.dll
+D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\obj\Debug\Negocio.pdb
+=======
+=======
+>>>>>>> origin/master
+D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\bin\Debug\Negocio.dll
+D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\bin\Debug\Negocio.pdb
+D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\bin\Debug\Datos.dll
+D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\bin\Debug\Entidades.dll
+D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\bin\Debug\Datos.pdb
+D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\bin\Debug\Entidades.pdb
+D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\obj\Debug\Negocio.csproj.ResolveComReference.cache
+D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\obj\Debug\Negocio.dll
+D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\Negocio\obj\Debug\Negocio.pdb
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master

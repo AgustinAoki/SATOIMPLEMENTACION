@@ -278,6 +278,11 @@ C:\Users\Pc\Desktop\WImplementacion\SATO\Datos\bin\Debug\Entidades.pdb
 C:\Users\Pc\Desktop\WImplementacion\SATO\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
 C:\Users\Pc\Desktop\WImplementacion\SATO\Datos\obj\Debug\Datos.dll
 C:\Users\Pc\Desktop\WImplementacion\SATO\Datos\obj\Debug\Datos.pdb
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> origin/master
 D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Datos\bin\Debug\Datos.dll.config
 D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Datos\bin\Debug\Datos.dll
 D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Datos\bin\Debug\Datos.pdb
@@ -286,3 +291,21 @@ D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Datos\bin\D
 D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
 D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Datos\obj\Debug\Datos.dll
 D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Datos\obj\Debug\Datos.pdb
+<<<<<<< HEAD
+=======
+=======
+=======
+>>>>>>> origin/master
+D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\Datos\bin\Debug\Datos.dll.config
+D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\Datos\bin\Debug\Datos.dll
+D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\Datos\bin\Debug\Datos.pdb
+D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\Datos\bin\Debug\Entidades.dll
+D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\Datos\bin\Debug\Entidades.pdb
+D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\Datos\obj\Debug\Datos.dll
+D:\RepositorioGitHub\SATOIMPLEMENTACION\WImplementacion\SATO\Datos\obj\Debug\Datos.pdb
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master

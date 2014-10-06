@@ -25,7 +25,7 @@ namespace Presentacion
                 frmPrincipal vtPrincipal = new frmPrincipal();
                 vtPrincipal.ShowDialog();
             }*/
-            Application.Run(new frmAtencion());
+            Application.Run(new frmPrincipal());
         }
     }
 }
