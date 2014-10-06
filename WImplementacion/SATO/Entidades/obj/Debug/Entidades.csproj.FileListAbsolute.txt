@@ -172,3 +172,7 @@ C:\Users\Pc\Desktop\WImplementacion\SATO\Entidades\bin\Debug\Entidades.dll
 C:\Users\Pc\Desktop\WImplementacion\SATO\Entidades\bin\Debug\Entidades.pdb
 C:\Users\Pc\Desktop\WImplementacion\SATO\Entidades\obj\Debug\Entidades.dll
 C:\Users\Pc\Desktop\WImplementacion\SATO\Entidades\obj\Debug\Entidades.pdb
+D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Entidades\bin\Debug\Entidades.dll
+D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Entidades\bin\Debug\Entidades.pdb
+D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Entidades\obj\Debug\Entidades.dll
+D:\RepositorioImplementacion\SATOIMPLEMENTACION\WImplementacion\SATO\Entidades\obj\Debug\Entidades.pdb
