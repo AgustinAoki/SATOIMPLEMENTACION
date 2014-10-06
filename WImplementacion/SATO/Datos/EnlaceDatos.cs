@@ -12,8 +12,7 @@ namespace Datos
 {
     public class EnlaceDatos
     {
-<<<<<<< HEAD
-<<<<<<< HEAD
+//lallalla
         //static String strCadena = @"Data Source=PC-PC\PC;Initial Catalog=Clinica;Integrated Security=True";//Cadena Agus
         static String strCadena = @"Data Source=pc-PC\;Integrated Security=True";//Cadena Juan
 =======
